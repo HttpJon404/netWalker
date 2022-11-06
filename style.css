@@ -1,0 +1,58 @@
+.logo{
+    max-height: 75px;
+    float: left;
+}
+
+.nav-dark a{
+    color: #DA7959;
+    text-decoration: none;
+    margin-left: 18px;
+}
+.nav-dark a:hover{
+    color: #DA7959;
+    text-decoration: none;
+    margin-left: 18px;
+}
+
+.nav-light a{
+    color: black;
+    text-decoration: none;  
+}
+
+.nav-light li {
+    background: #f2f2f2;
+    text-align: center;
+    border-right: 1px solid #4d5061;
+    border-bottom: 1px solid #4d5061;
+    font-size: 14px;
+}
+.nav-light li a:hover{    
+    color: #F26700;
+    text-decoration: underline;
+}
+.backGray{
+    background-color: #f2f2f2 !important;
+}
+
+td{
+    font-size: 14px;
+}
+
+.btnRed button{
+    margin-right: 5px;
+}
+
+.titleCol{
+    background-color: #e2e2e2;
+}
+.dataRow{
+    background-color: #f2f2f2;
+    border-radius: 1px solid black ;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: black;
+    text-decoration: none;
+    background-color: #f2f2f2 !important;
+}
+
